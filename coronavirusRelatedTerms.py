@@ -56,3 +56,23 @@ coronavirus_terms_low_corr = [
 	'china',
 	'chinese'
 ]
+
+#LIST OF TERMS RELATED TO 'OUTDOOR'
+
+#HIGH CORRELATION: terms that are basically synonims
+outdoor_terms_high_corr = [
+	'outdoor',
+	'outside',
+	'outdoors'
+]
+	
+#MEDIUM CORRELATION: terms that are used together often
+outdoor_terms_medium_corr = [
+	'activity',
+	'activities',
+]
+
+#LOW CORRELATION: terms that have similar meaning, but might be used also in a different way
+outdoor_terms_low_corr = [
+	'open'	
+]
