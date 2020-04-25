@@ -70,9 +70,12 @@ outdoor_terms_high_corr = [
 outdoor_terms_medium_corr = [
 	'activity',
 	'activities',
+	'walk'
 ]
 
-#LOW CORRELATION: terms that have similar meaning, but might be used also in a different way
+#LOW CORRELATION: terms that have similar meaning or are used together in these times, but might be used also in a different way
 outdoor_terms_low_corr = [
-	'open'	
+	'open',
+	'permit',
+	'safe'
 ]
