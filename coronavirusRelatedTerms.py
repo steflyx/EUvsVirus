@@ -11,7 +11,8 @@ coronavirus_terms_high_corr = [
 	'covid-19',
 	'flu',
 	'wuhan',
-	'Coronaviridae'
+	'Coronaviridae',
+	'N95'
 ]
 
 #MEDIUM CORRELATION: worlds that have been widely used together with 
